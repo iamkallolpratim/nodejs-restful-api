@@ -1,0 +1,16 @@
+{
+  "name": "movie-analyst-api",
+  "version": "1.0.0",
+  "description": "Movie Analyst aggregates and displays a list of the latest movie reviews by famous critics across the web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kallolPratim",
+  "license": "ISC",
+  "dependencies": {
+    "auth0-api-jwt-rsa-validation": "0.0.1",
+    "express": "^4.14.0",
+    "express-jwt": "^3.4.0"
+  }
+}
